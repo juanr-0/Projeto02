@@ -1,2 +1,2 @@
 # Projeto02
-![image](https://user-images.githubusercontent.com/110058876/206579606-ce5b237e-436c-41f2-8999-159171df0d2f.png)
+![image](https://user-images.githubusercontent.com/110058876/206580413-46a1fca5-1c4e-4916-bfa2-e332c8852efa.png)
